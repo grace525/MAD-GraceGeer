@@ -19,10 +19,12 @@ class ViewController: UIViewController {
         if imageControl.selectedSegmentIndex == 0 {
             titleLabel.text="Chartreux"
             bothImage.image=UIImage(named: "cat")
+            titleLabel.textColor = .systemOrange
         }
         else if imageControl.selectedSegmentIndex == 1 {
             titleLabel.text="Border Collie"
             bothImage.image=UIImage(named: "dog")
+            titleLabel.textColor = .systemMint
         }
     }
 
