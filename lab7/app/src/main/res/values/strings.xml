@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">lab7</string>
+    <string name="buildSandwich">Build Your Sandwich!</string>
+    <string name="type">1. Choose sandwich type</string>
+    <string name="size">2. What size?</string>
+    <string name="sides">3. Choose side(s)</string>
+    <string name="spice">Make Spicy</string>
+    <string name="submit">Submit Order</string>
+    <string name="endMessage" />
+    <string name="chips">Potato Chips</string>
+</resources>
