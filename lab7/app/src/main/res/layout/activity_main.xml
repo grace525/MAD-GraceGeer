@@ -24,6 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="48dp"
         android:contentDescription="Pick Sandwich Size"
+        android:entries="@array/sandwichSize"
         app:layout_constraintBottom_toTopOf="@+id/sideTitle"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"

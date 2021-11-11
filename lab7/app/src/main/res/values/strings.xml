@@ -4,8 +4,18 @@
     <string name="type">1. Choose sandwich type</string>
     <string name="size">2. What size?</string>
     <string name="sides">3. Choose side(s)</string>
-    <string name="spice">Make Spicy</string>
+    <string name="spice">spicy</string>
     <string name="submit">Submit Order</string>
     <string name="endMessage" />
-    <string name="chips">Potato Chips</string>
+    <string name="chips">potato chips</string>
+
+
+    <string-array name="sandwichSize">
+        <item>4-inch</item>
+        <item>6-inch</item>
+        <item>12-inch</item>
+    </string-array>
+
+
 </resources>
+
